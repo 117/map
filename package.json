@@ -1,7 +1,7 @@
 {
   "name": "@master-chief/map",
-  "version": "0.0.5",
-  "description": "Fast file extension mapping with deep search and replacement.",
+  "version": "0.0.6",
+  "description": "Fast file extension mapping with deep reference replacement.",
   "author": "117",
   "type": "module",
   "bin": {
