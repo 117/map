@@ -45,7 +45,7 @@ within the files.
 $ map folder js cjs
 ```
 
-Now the extensions have been mapped to `.cjs` (easy right? 🙂).
+Now the extensions have been mapped to `.cjs`.
 
 ```terminal
 $ ls folder
