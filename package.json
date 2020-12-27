@@ -1,0 +1,20 @@
+{
+  "name": "@master-chief/map",
+  "version": "0.0.5",
+  "description": "Fast file extension mapping with deep search and replacement.",
+  "author": "117",
+  "type": "module",
+  "bin": {
+    "map": "dist/main.js"
+  },
+  "license": "ISC",
+  "scripts": {
+    "build": "npm i && npm run clean && tsc",
+    "clean": "rimraf dist"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.16",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.1.3"
+  }
+}
